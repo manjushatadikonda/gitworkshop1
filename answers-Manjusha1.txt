@@ -8,3 +8,7 @@ creating a thread is accomplished by implementing an interface and extending a c
 2)What is Multi Threading?
 
 multithreading is the concept of executeing a complex process by running a collection of threads simultaneously. Each thread belongs to the Java. lang. Thread class. The thread class overrides the run() method and executes the process.
+
+
+3)Explain the differences between overloading and overriding?
+ When two or more methods in the same class have the same name but different parameters, it's called Overloading. When the method signature (name and parameters) are the same in the superclass and the child class, it's called Overriding.
