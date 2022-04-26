@@ -1,0 +1,10 @@
+1)What is Thread?
+
+A thread, is the path followed when executing a program. All Java programs have at least one thread, known as the main thread, which is created by the Java Virtual Machine (JVM) at the program’s start, when the main() method is invoked with the main thread.
+
+creating a thread is accomplished by implementing an interface and extending a class. Every Java thread is created and controlled by the java.lang.Thread class.
+
+
+2)What is Multi Threading?
+
+multithreading is the concept of executeing a complex process by running a collection of threads simultaneously. Each thread belongs to the Java. lang. Thread class. The thread class overrides the run() method and executes the process.
