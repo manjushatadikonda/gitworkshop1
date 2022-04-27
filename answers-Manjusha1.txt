@@ -114,6 +114,9 @@ Grooming (or refinement) is a meeting of the Scrum team in which the product bac
 
 Product grooming is critical in product management because it means keeping the backlog up to date and getting backlog items ready for upcoming sprints.
 
+8)Throw and throws
+
+Both throw and throws are concepts of exception handling in Java. The throws keyword is used to declare which exceptions can be thrown from a method, while the throw keyword is used to explicitly throw an exception within a method or block of code.
 
 
 
