@@ -12,3 +12,39 @@ multithreading is the concept of executeing a complex process by running a colle
 
 3)Explain the differences between overloading and overriding?
  When two or more methods in the same class have the same name but different parameters, it's called Overloading. When the method signature (name and parameters) are the same in the superclass and the child class, it's called Overriding.
+
+4)Explain basic Git commands
+git init:
+
+This command is used to start a new repository.
+
+git clone 'url':
+
+This command is used to obtain a repository from an existing URL.
+
+git add "filename":
+
+This command adds a file to the staging area.
+
+git add .:
+
+This command adds one or more to the staging area
+
+git commit -m “[ Type in the commit message]”:
+
+This command records or snapshots the file permanently in the version history.
+
+git push:
+
+This command sends the committed changes of master branch to your remote repository.
+
+git pull:
+
+This command fetches and merges changes on the remote server to your working directory.
+
+
+
+
+
+
+
