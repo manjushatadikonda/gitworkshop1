@@ -79,6 +79,43 @@ Just below the maximum
 Maximum
 
 
+7)Explain Scrum meetings:
+
+1. Sprint Planning
+An agile ceremony held by the Development team, Scrum Master, and Product Owner. It is held at the beginning of a new sprint, with the purpose of setting up prioritized worklist and aligning the entire team for success throughout the sprint. The Product Owner will discuss a prioritized backlog with the development team, and the whole group collectively comes up with the amount of effort involved. The team then decides how much of the work from the backlog can be completed in this iteration. By following the Best Sprint planning practices, sprint session span can be kept within 4-6 hours.
+
+Before the meeting, Product owner explains the user stories and all of the use cases to everyone. The Team now has the opportunity to ask questions about them and get rid of any confusion and get clarifications.
+
+The team now starts effort estimation using the method of planning poker. Once effort estimation is done, user stories are assigned to individual team members and work is started.
+
+After the meeting, team members can still add new user story or task, if they find something within a sprint. Team members should communicate to product owner if newly found work does not seem to be original part of the plan.
+
+2. Daily Scrum or Stand-up
+An essential sync up meeting in both Scrum and Kanban methodologies. It is an agile ceremony held for the Development Team facilitated by the Scrum Master. The Product Owner and the stakeholders can participate in this meeting to answer the questions raised by the development team. This meeting takes place each day preferably at the same place, and typically held in the morning. The purpose of the Stand-up is to keep everyone on the same page.
+
+Each team member is being required to answer 3 questions:
+
+What did I do yesterday?
+What will I do today?
+Are there any impediments to continue working?
+The daily stand-up should be considered an informal meeting and should be no longer than 15 minutes. For details, see Guide to effectively run daily scrum.
+
+3. Sprint/Iteration Review
+An agile ceremony held by Development Team, Scrum Master and Product Owner, where the stakeholders may be invited as well. The purpose of the Iteration Review is to show the work that the team has achieved in the last sprint. The format of the meetings can be casual or formal depending on the team’s preferences. Scrum Master need to plan this session well beforehand to make sure participation of stakeholders who can give necessary feedback on sprint demo. After giving demos of work progress, the team can expect to receive feedback from the stakeholders. Sprint Review session usually takes 1-2 hours.
+
+4. Sprint Retrospective
+An agile ceremony held after Sprint Review meeting and usually takes an hour. Participants are Scrum Master, Product Owner, and Development Team. The aim of the meeting is to find out what worked well and what didn’t, in the last iteration. The team tries to find out any issue that is affecting the progress. All participants give written feedback. The team takes this session as an opportunity to improve. If there are different types of issues then the team picks the three most voted issues and discuss them to find their solution together.
+
+It is to reflect upon the recent iteration to evaluate, how the team performed and what factors caused it to lose productivity. After retrospective analysis, the team can expect to improve its processes and be on the path of growth for the future. For details, check recommended retrospective practices and what to avoid?
+
+5.Sprint Grooming:
+
+Grooming (or refinement) is a meeting of the Scrum team in which the product backlog items are discussed and the next sprint planning is prepared.
+
+Product grooming is critical in product management because it means keeping the backlog up to date and getting backlog items ready for upcoming sprints.
+
+
+
 
 
 
