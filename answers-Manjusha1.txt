@@ -67,6 +67,18 @@ Super keyword:
 super is used to refer super-class’s instance as well as static members.
 super is also used to invoke super-class’s method or constructor.
 
+6)Explain Boundry value analysis
+Boundary testing is the process of testing between extreme ends or boundaries between partitions of the input values.
+
+So these extreme ends like Start- End, Lower- Upper, Maximum-Minimum, Just Inside-Just Outside values are called boundary values and the testing is called “boundary testing”.
+The basic idea in normal boundary value testing is to select input variable values at their:
+Minimum
+Just above the minimum
+A nominal value
+Just below the maximum
+Maximum
+
+
 
 
 
