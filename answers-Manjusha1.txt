@@ -129,6 +129,11 @@ The try statement allows you to define a block of code to be tested for errors w
 
 The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
 
-
+10)Program : Reversing word
+public static void main(String[] args)
+{
+String s="Java";
+s=s.reverse();
+}
 
 
