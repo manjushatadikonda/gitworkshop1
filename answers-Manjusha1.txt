@@ -42,8 +42,30 @@ git pull:
 
 This command fetches and merges changes on the remote server to your working directory.
 
+5)Explain the signifance of This , final, static, super keywords?
 
+This Keyword:
+this is used to refer current-class’s instance as well as static members.
+this can be used in various contexts as given below:
+to refer instance variable of current class
+to invoke or initiate current class constructor
+can be passed as an argument in the method call
+can be passed as argument in the constructor call
+can be used to return the current class instance
 
+Static Keyword:
+reason why static keywords are heavily used in Java is to efficiently manage memory. Generally, if you want to access variables or methods inside a class, you first need to create an instance or object of that class. However, there might be situations where you want to access only a couple of methods or variables of a class and you don’t want to create a new instance for that class just for accessing these members. This is where you can use the static keyword in Java.
+
+Final keyword:
+
+Final is a keyword in Java that is used to restrict the user and can be used in many respects. Final can be used with:
+Class:When a class is declared as final, it cannot be extended further.
+Methods:A method declared as final cannot be overridden; this means even when a child class can call the final method of parent class without any issues, but the overriding will not be possible. 
+Variables:Once a variable is assigned with the keyword final, it always contains the same exact value. Again things may happen like this; if a final variable holds a reference to an object then the state of the object can be altered if programmers perform certain operations on those objects, but the variable will always refer to the same object. A final variable that is not initialized at the time of declaration is known as a blank final variable. If you are declaring a final variable in a constructor, then you must initialize the blank final variable within the constructor of the class. Otherwise, the program might show a compilation error.
+
+Super keyword:
+super is used to refer super-class’s instance as well as static members.
+super is also used to invoke super-class’s method or constructor.
 
 
 
