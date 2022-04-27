@@ -165,5 +165,15 @@ public class trail1 {
 }
 
 
-12) 
+12) call private method for reversing a string
+public static void main(String[] args) 
+		
+		{
+		String s= "I like java Programming";
+		check(s);
+	}
+	private static String check(String st) {
+		StringBuilder rev=new StringBuilder(st);
+		return rev.reverse().toString();
+	}
 
